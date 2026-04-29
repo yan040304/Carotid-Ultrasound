@@ -1,0 +1,5 @@
+method,dice_mean,dice_std,hd95_mean,hd95_std,sample_size
+Longitudinal Traditional,0.26,0.09,21.0,7.41,34
+Longitudinal Deep Learning,0.99,0.0,1.44,0.5,34
+Transverse Traditional,0.9,0.04,8.04,3.04,29
+Transverse Deep Learning,0.97,0.01,1.92,0.51,29
